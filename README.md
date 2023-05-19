@@ -1,4 +1,4 @@
 - 👋 Hi, I’m IHasBone
 - 👀 I’m interested in programming (lol)
-- 🌱 I’m currently learning Java, and I know python and javascript pretty well
-- 📫 I don't know how you can reach me (even more LOL)
+- 🌱 I’m currently learning C++, C# and Rust, and I know Python, JavaScript, HTML and CSS pretty well
+- 📫 There is no way to contact me
